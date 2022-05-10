@@ -1,0 +1,31 @@
+.main{
+    background-color: #CA4D4F;
+}
+
+
+.header h1 {
+    font-size: 50px;
+    color: #841719;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 2px #00b67f;
+}
+
+
+
+
+.header {
+    height: 135px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    margin-top: 0px;
+    background-color: blanchedalmond;
+    text-align: left;
+    border: 2px solid rgba(155, 137, 137, 0.644);
+    border-radius: 0 0 30px 30px;
+    box-shadow: 5px 0 5px black;
+}
+
+
+
+
